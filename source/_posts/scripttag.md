@@ -1,7 +1,7 @@
 ---
 title: 在script标签写export为什么会抛错？
 date: 2022-09-22 16:43:18
-tags:
+tags: [JavaScript]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/best_hd-wallpaper-1920x1080.jpg
 ---
 

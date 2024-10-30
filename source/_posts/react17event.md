@@ -1,7 +1,7 @@
 ---
 title: react17 合成事件
 date: 2023-05-14 16:50:44
-tags:
+tags: [react]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/custom_keyboard-wallpaper-1600x900.jpg
 ---
 

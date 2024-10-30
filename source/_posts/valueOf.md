@@ -1,7 +1,7 @@
 ---
 title: 浅析 valueOf & toString & toPrimitive
 date: 2022-10-13 17:18:26
-tags:
+tags: [JavaScript]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/the_garfield_animated_movie_2024___otto-wallpaper-1366x768.jpg
 ---
 

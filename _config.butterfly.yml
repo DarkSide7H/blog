@@ -19,7 +19,7 @@ nav:
 menu:
   首页: / || fas fa-home
   归档: /archives/ || fas fa-archive
-  # 标签: /tags/ || fas fa-tags
+  标签: /tags/ || fas fa-tags
   # 分类: /categories/ || fas fa-folder-open
   # 友链: /link/ || fas fa-link
 
@@ -72,7 +72,7 @@ index_img: https://cdn.jsdelivr.net/gh/DarkSide7H/cdn-repo@main/gangsta_cats_thu
 archive_img: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/retro_computer_aesthetic-wallpaper-1280x720.jpg
 
 # Note: tag page, not tags page
-tag_img:
+tag_img: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/retro_gaming_room-wallpaper-1280x720.jpg
 
 # The banner image of tag page, you can set the banner image for each tag
 # Format:
@@ -92,7 +92,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background:
+background: 'linear-gradient(20deg, #0062be, #925696, #cc426e, #fb0347)'
 
 cover:
   # Disable the cover or not

@@ -1,7 +1,7 @@
 ---
 title: JavaScript类型，有可能你不知道这些细节
 date: 2022-11-10 13:20:36
-tags:
+tags: [JavaScript]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/cute_fluffy_cat_outdoors-wallpaper-1280x720.jpg
 ---
 

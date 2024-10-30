@@ -1,7 +1,7 @@
 ---
 title: babel 探秘系列-基础篇
 date: 2023-06-13 16:38:25
-tags:
+tags: [babel]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/business-wallpaper-1280x720.jpg
 ---
 

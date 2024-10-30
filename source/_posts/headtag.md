@@ -1,7 +1,7 @@
 ---
 title: 你知道head里一共能写哪几种标签吗？
 date: 2022-09-09 15:18:55
-tags:
+tags: [HTML]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/fuji_x100s_camera-wallpaper-1280x720.jpg
 ---
 

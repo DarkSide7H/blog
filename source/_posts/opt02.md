@@ -1,7 +1,7 @@
 ---
 title: 前端性能优化-02
 date: 2024-04-18 16:24:53
-tags:
+tags: [性能优化]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/adorable_and_fluffy_pomeranian_dogs-wallpaper-1280x720.jpg
 ---
 

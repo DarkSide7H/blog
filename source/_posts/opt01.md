@@ -1,7 +1,7 @@
 ---
 title: 前端性能优化-01
 date: 2024-04-11 15:44:19
-tags:
+tags: [性能优化]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/adorable_fluffy_persan_cat-wallpaper-1280x720.jpg
 ---
 

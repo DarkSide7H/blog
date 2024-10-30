@@ -1,7 +1,7 @@
 ---
 title: 闭包和执行上下文到底是怎么回事？
 date: 2022-11-17 15:42:14
-tags:
+tags: [JavaScript]
 cover: https://cdn.jsdelivr.net/gh/darkside7h/cdn-repo@v1.0.2/giant_eggs_landscape_autumn-wallpaper-1280x720.jpg
 ---
 
